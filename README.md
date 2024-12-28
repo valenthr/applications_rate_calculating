@@ -6,7 +6,7 @@ Python libraries:
 * Mathplotlib
 * Seaborn
 ## Data
-### 'applications(2.0).csv' - application data with columns:
+### 'applications(2).csv' - application data with columns:
 * Applied at - time of sending an application.
 * Amount - how much money (UAH) applicant have requested for funding. 
 * Age - age of applicant.
@@ -36,7 +36,7 @@ This rating must be from 0 to 100 and based on 8 conditions:
 As a result, out of 13 278 applications, 12 558 were approved.
 ## Accepted applications analysis
 Applications was observed to find relationships across amount of requested money, age, degree, location, gender, marital status and industry
-All analysis is in 'appplications.ipynb'
+All analysis is in 'appplications(2.0).ipynb'
 ## Insights from analysis
 ### About amount of money requested
 * Smallest amount is only 150 UAH (about 3,5$)!
