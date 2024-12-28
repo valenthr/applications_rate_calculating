@@ -33,12 +33,16 @@ This rating must be from 0 to 100 and based on 8 conditions:
 7. If external rating is greater than or equal to 7, 20 points are added to the rating.
 8. If external rating is less or equal to 2, 20 points are added to the rating.
 ### Applications are accepted, if application rating is more then 0.
+As a result, out of 13 278 applications, 12 558 were approved.
 ## Accepted applications analysis
 Applications was observed to find relationships across amount of requested money, age, degree, location, gender, marital status and industry
 All analysis is in 'appplications.ipynb'
 ## Insights from analysis
 ### About amount of money requested
-Median = 8250.0, First quartile = 4500.0, Third quartile = 13350.0, Minimum amount - 150.0, Maximum amount - 58500.0
+* Smallest amount is only 150 UAH (about 3,5$)!
+* Median = 8250 UAH;
+* 25% applicants requested less than 4500 UAH, 75% - less then 13350 UAH;
+* Maximum amount - 58500 UAH.
 ### About gender
 3/4 of applicants is men (76.86%)
 ### About marital status
@@ -66,7 +70,7 @@ The most uncommon:
 | Uberfication        | 17                   |
 | Robotics            | 8                    |
 
-# About degree of applicants
+### About degree of applicants
 88% have received higher education.
 | Education Level                                               | % of Applicants |
 |---------------------------------------------------------------|-----------------|
@@ -75,3 +79,9 @@ The most uncommon:
 | Lower secondary education                                     | 3.66%           |
 | Secondary Specialized Education                               | 2.98%           |
 | Currently pursuing higher education                           | 5.31%           |
+
+### About location of applicants
+The most common locations:
+1. Kyiv or Kyiv region - 4209
+2. Lviv or Lviv region - 2229
+The unexpectedly large number of applicants in Lviv region and Lviv is caused by the large number of refugees from the war-torn eastern regions of Ukraine
