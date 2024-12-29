@@ -1,4 +1,4 @@
-# Applications rating calculating and analysis
+# Applications rating calculating & analysis
  Calculating the rating and analysis of credit applications.
 ## Tools
 Python libraries:
