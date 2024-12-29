@@ -84,4 +84,5 @@ The most uncommon:
 The most common locations:
 1. Kyiv or Kyiv region - 4209
 2. Lviv or Lviv region - 2229
+
 The unexpectedly large number of applicants in Lviv region and Lviv is caused by the large number of refugees from the war-torn eastern regions of Ukraine
